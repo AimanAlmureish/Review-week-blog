@@ -1,0 +1,58 @@
+.whole-left-single {
+    padding-bottom: 5em;
+    border-style: hidden;
+    box-shadow: 0 0 12px 0 #797474;
+    margin-bottom: 3em;
+}
+
+.whole-right-single {
+    padding-bottom: 5em;
+    border-style: hidden;
+    box-shadow: 0 0 12px 0 #797474;
+    margin-bottom: 3em;
+}
+
+.inner-img {
+    display: inline-flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-bottom: 2em;
+}
+
+.img-small {
+    padding-bottom: 1em;
+}
+
+.whole-right-single>h1 {
+    padding-bottom: 1em;
+}
+
+.inner-img h1 {
+    margin-left: 22px;
+}
+
+.inner-img p {
+    position: relative;
+    top: 2em;
+    left: -3em;
+}
+
+.whole-tags {
+    display: inline-flex;
+}
+
+.whole-tags p {
+    margin-right: 1em;
+}
+
+.text-left {
+    margin: 21px;
+}
+
+.text-right {
+    margin: 21px;
+}
+
+.whole-popular {
+    margin: 21px;
+}
